@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[About](#about) · [Tech stack](#tech-stack) · [Projects](#selected-projects) · [Certifications](#certifications) · [GitHub dashboard](#github-dashboard) · [Contact](#connect)
+[About](#about) · [Tech stack](#tech-stack) · [GitHub dashboard](#github-dashboard) · [Contact](#connect)
 
 </div>
 
@@ -56,76 +56,6 @@ My interests sit at the intersection of **software development, cybersecurity, d
 <img src="https://img.shields.io/badge/Dialogflow-4285F4?style=flat-square&logo=dialogflow&logoColor=white" alt="Dialogflow" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 <img src="https://img.shields.io/badge/LIME-64748B?style=flat-square" alt="LIME explainable AI" />
-
-</div>
-
-## Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧵 Kalakrithi App
-
-An AI-powered marketplace concept connecting artisans with collectors.
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=flutter,fastapi,firebase&theme=dark" alt="Flutter, FastAPI and Firebase" />
-
-Google Gemini · Gemma · Dialogflow
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 Disaster Relief Platform
-
-A real-time emergency coordination platform with live tracking, alerts and synchronized updates for relief teams.
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,mysql&theme=dark" alt="React, Redux, Tailwind, Node.js and MySQL" />
-
-Socket.IO · REST APIs
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Veridex
-
-An AI-powered cybersecurity tool for phishing detection, with a web dashboard and browser extension.
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" alt="Python and Scikit-learn" />
-
-NLP · LIME · Explainable AI
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 Annotation Quality Guardian
-
-A platform focused on annotation workflows, quality review and project coordination.
-
-**Explore the repository**
-
-[View project ↗](https://github.com/prembedre/annotation-quality-guardian)
-
-</td>
-</tr>
-</table>
-
-## Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity" />
-<img src="https://img.shields.io/badge/Coursera-Foundations_of_Cybersecurity-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Foundations of Cybersecurity" />
-<img src="https://img.shields.io/badge/Simplilearn-SQL_for_Data_Analysis-EF6C35?style=flat-square" alt="SQL for Data Analysis" />
-<img src="https://img.shields.io/badge/Infosys_Springboard-Microsoft_Power_BI-007CC3?style=flat-square" alt="Microsoft Power BI" />
 
 </div>
 
